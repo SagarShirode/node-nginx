@@ -1,0 +1,1 @@
+You also have to create .env file in that file you have to mention the mogodb connection string and need to mention the port on which you are going to run the application
